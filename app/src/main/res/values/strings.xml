@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="error_message">No Internet Connection</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="title_activity_test">test</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="pause">pause</string>
+    <string name="play">play</string>
+    <string name="restart">restart</string>
+    <string name="detail_error_message">No Recipes to load</string>
+    <string name="Recipe_Steps">Recipe Steps</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="add_to_widget">Add To Widget</string>
+</resources>
